@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="focus_accessibility_description">FocusFlow observes foreground app package names and returns you to Home when a selected app opens during Monday 6 AM to Sunday 8 PM. It does not read screen contents. You can disable this service in Settings at any time.</string>
+</resources>
